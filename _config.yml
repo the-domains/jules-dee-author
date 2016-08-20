@@ -26,16 +26,16 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-style: taylor
 name: Jules Dee - Author
+favicon: null
+style: taylor
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1386659366544336
-layout_spectrum: 0.9467419
+layout_spectrum: 0.2606516
