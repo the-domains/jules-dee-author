@@ -5,32 +5,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.453434188850224
   brandStrength: 0.7584839484188706
-  lightness: 0.8147252143826336
+  rhythmicContrast: 0.7567647427786142
   brandColors:
     - '#F8F2E2'
     - '#2E2A27'
     - '#E1CAAA'
     - '#B6A080'
     - '#786957'
-  rhythmicContrast: 0.7567647427786142
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  lightness: 0.8147252143826336
 cta:
   bucket: null
   version: null
   domain: null
 favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 style: taylor
 name: Jules Dee - Author
 opengraph:
@@ -38,4 +38,4 @@ opengraph:
   type: null
   appId: null
 typography_spectrum: 0.1386659366544336
-layout_spectrum: 0.5043859
+layout_spectrum: 0.9467419
